@@ -5,7 +5,8 @@ This is an example project that detects the number from the plate of a vehicle.
 
 
 ### Here's an example video<BR>
-<img src="art/detection.gif" width="128"/>
+
+  <img src="art/detection.gif" width="128"/>
 
 
 
